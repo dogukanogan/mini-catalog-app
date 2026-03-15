@@ -69,9 +69,6 @@ lib/
 
 > **Not:** Bu adresler eğitim ve demo amaçlıdır. Gerçek bir e-ticaret altyapısını temsil etmez.
 
-## Ekran Görüntüleri
-
-_Ekran görüntüleri uygulamanız çalıştıktan sonra eklenecektir._
 
 ## Geliştirici
 
