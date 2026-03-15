@@ -75,4 +75,4 @@ _Ekran görüntüleri uygulamanız çalıştıktan sonra eklenecektir._
 
 ## Geliştirici
 
-Doğukan Oğan
+Doğukan Ogan
