@@ -69,6 +69,18 @@ lib/
 
 > **Not:** Bu adresler eğitim ve demo amaçlıdır. Gerçek bir e-ticaret altyapısını temsil etmez.
 
+## Ekran Görüntüleri
+
+<div align="center">
+  <img src="assets/screenshots/mainpage.png" width="30%" />
+  <img src="assets/screenshots/product.png" width="30%" />
+  <img src="assets/screenshots/specifications.png" width="30%" />
+</div>
+<div align="center">
+  <img src="assets/screenshots/sepet.png" width="30%" />
+  <img src="assets/screenshots/buying.png" width="30%" />
+  <img src="assets/screenshots/mainpageOnay.png" width="30%" />
+</div>
 
 ## Geliştirici
 
